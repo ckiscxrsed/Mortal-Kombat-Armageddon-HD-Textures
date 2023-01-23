@@ -9,7 +9,7 @@ This is a HD Texture Pack created for use in MK: Armageddon [PS2] using AI Image
 3) Click on Texture Replacement Window and Enable 'Load Textures' & 'Precache Textures'
 4) Done!
 
-!! Choose between U (Upscaled) or U2x (Upscaled 2x) !!
+!! Choose between U (Upscaled) or Ux2 (Upscaled 2x) !!
 
    ! Upscaled x2 is Much higher Resolution but may have some some Texture Artifacts !
    
