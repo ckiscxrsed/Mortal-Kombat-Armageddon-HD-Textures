@@ -13,7 +13,8 @@ This is a HD Texture Pack created for use in MK: Armageddon [PS2] using AI Image
 
    ! Upscaled x2 is Much higher Resolution but may have some some Texture Artifacts !
    
-   ^ I will fix these as I go ^
+   - 1 Known Error: When loading a save, Game Display freezes but is still playing 
+      (Press 'Start' and then press 'X' to get past this) - You should hear the game in response.
    
 
 
