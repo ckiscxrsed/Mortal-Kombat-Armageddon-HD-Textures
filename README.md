@@ -1,6 +1,6 @@
 # Mortal Kombat Armageddon HD Texture Pack [PCSX2]
 
-## This is a HD Texture Pack created using AI Image Upscaling, for use in MK: Armageddon [PS2]
+## This is a HD Texture Pack created using AI Image Upscaling, for MK: Armageddon [PS2][USA]
 
   Note: This is still a Work-In-Progress and I will update it as I go, some textures are still missing though most are done.
   
