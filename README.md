@@ -10,4 +10,5 @@ This is a HD Texture Pack created for use in MK: Armageddon [PS2] using AI Image
 4) Click on Texture Replacement Window and Enable 'Load Textures' & 'Precache Textures'
 5) Done!
  
+ Previews: https://drive.google.com/drive/folders/1yolNQoTExndxVt3uKMQGqckrqLLkk000?usp=sharing
 
