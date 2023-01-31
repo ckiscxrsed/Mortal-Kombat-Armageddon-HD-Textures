@@ -14,4 +14,4 @@
  #### Previews: https://drive.google.com/drive/folders/1yolNQoTExndxVt3uKMQGqckrqLLkk000?usp=sharing
 
 ### Known Bugs: If on Start, at the Profile Screen, the Image Freezes: Press Start and then 'X' [PS2 PROMPTS]. You should now see the MidWay Logo and be able to continue
-###  - You should still hear the menu when pressing these prompts
+####  - You should still hear the menu when pressing these prompts
